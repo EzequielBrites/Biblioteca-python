@@ -37,6 +37,5 @@ python biblioteca.py
 ## 📝 Autor
 
 * Cristian Ezequiel Brites
-* DNI: 44.148.302
-* Parcial 1 - Programación 1
+
 
